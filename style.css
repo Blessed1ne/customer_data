@@ -1,0 +1,47 @@
+
+
+body div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: 140px;
+  width: 300px;
+  text-align: center;
+  margin-bottom: : 10px;
+  margin-top: 10px;
+
+
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+h1 {
+  display: flex;
+  width: 170vh;
+  text-align: center;
+  justify-content: center;
+}
+
+img {
+  width: 80%;
+}
+
+label {
+  width: 100%;
+  font-size: 1em;
+}
+
+.labelName {
+  font-size: 2em;
+  text-decoration: underline;
+}
